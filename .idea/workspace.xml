@@ -121,9 +121,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="319" />
-    <option name="y" value="45" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="212" />
+    <option name="y" value="164" />
     <option name="width" value="1440" />
     <option name="height" value="819" />
   </component>
@@ -166,7 +166,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538709213576" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538709805118" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -189,7 +189,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.UtilTester">
+    <configuration name="BuggyUtilClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuggyUtilClient" />
+      <module name="lab-3-jmarks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UtilTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab-3-jmarks" />
       <option name="PACKAGE_NAME" value="" />
@@ -198,9 +205,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.UtilTester" />
+      <item itemvalue="Application.BuggyUtilClient" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.UtilTester" />
+        <item itemvalue="Application.BuggyUtilClient" />
       </list>
     </recent_temporary>
   </component>
